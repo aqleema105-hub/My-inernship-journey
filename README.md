@@ -1,2 +1,33 @@
 # My-inernship-journey
 Crispy and enjoyable 
+# Internship Journey Video - Major Project
+
+## Project Overview
+This project showcases my internship journey, learning experience, skills development, and the progress I made throughout my internship.
+
+## Objective
+The objective of this project is to present my learning journey, highlight completed tasks, and demonstrate the skills gained through practical experience.
+
+## Journey Highlights
+- Started my internship learning journey
+- Worked on practical video editing projects
+- Improved creative and technical skills
+- Explored AI tools for content creation
+- Developed professional portfolio projects
+
+## Skills Demonstrated
+- Video Editing
+- Storytelling
+- Content Creation
+- AI Voice-over Integration
+- Visual Design
+- Project Presentation
+
+## Tools Used
+- CapCut
+- Canva
+- AI Tools
+- GitHub
+
+## Project Outcome
+Created an internship journey video that reflects my growth, learning experience, and progress as a video editing intern.
